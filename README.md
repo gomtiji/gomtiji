@@ -1,5 +1,4 @@
 <!-- it will paly music at last also  -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
